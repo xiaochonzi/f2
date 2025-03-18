@@ -4,6 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "f2"
+version = "0.0.1.7"
 description = "🚀Asynchronous based full-platform download tool"
 readme = "README.md"
 license = "Apache-2.0"
@@ -94,8 +95,6 @@ Chat = "https://discord.gg//3PhtPmgHf8"
 "Source Code" = "https://github.com/Johnserf-Seed/f2"
 "Issue Tracker" = "https://github.com/Johnserf-Seed/f2/issues"
 
-[tool.hatch.version]
-path = "f2/__init__.py"
 
 [tool.hatch.build.targets.sdist]
 include = [
