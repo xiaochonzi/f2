@@ -4,7 +4,6 @@ build-backend = "hatchling.build"
 
 [project]
 name = "f2"
-version = "0.0.1.7"
 description = "🚀Asynchronous based full-platform download tool"
 readme = "README.md"
 license = "Apache-2.0"
